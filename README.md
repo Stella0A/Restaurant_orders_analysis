@@ -1,4 +1,4 @@
-### This project is part of my upskilling on certain tools such as SQL. Knowing how important SQL is I am taking the first quarter of 2025 to improve my SQL and work on projects
+### Knowing how important SQL is I am taking the first quarter of 2025 to relearn and improve my SQL by practicing with various projects
 # Project 1 Case Study - Restaurant_orders_analysis.
 
 # Background
