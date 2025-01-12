@@ -1,4 +1,4 @@
-### Knowing how important SQL is I am taking the first quarter of 2025 to relearn and improve my SQL by practicing with various projects
+### Knowing how important SQL is I am taking the first quarter of 2025 to relearn and improve my SQL by practicing with various projects each week
 # Project 1 Case Study - Restaurant_orders_analysis.
 
 # Background
